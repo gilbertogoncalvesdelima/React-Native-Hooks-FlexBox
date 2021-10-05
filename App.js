@@ -46,6 +46,7 @@ flex:1,
 backgroundColor: '#CCC',
 flexDirection: 'row',
 flexWrap: 'wrap',
+justifyContent: "center",
 },
 
 
